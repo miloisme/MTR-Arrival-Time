@@ -1,0 +1,5 @@
+{
+  "name": "HK MTR Real-time Arrival",
+  "description": "A real-time train arrival information system for the Hong Kong MTR network.",
+  "requestFramePermissions": []
+}
